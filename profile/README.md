@@ -1,12 +1,11 @@
-## Hi there 👋
+# ABC-DB
+**MEMBER**  
 
-<!--
+**Lee jingyeong** in @CBNU  
+**Nam jaehong** in @CBNU  
+**Song binwon** in @CBNU  
+**Jang jeonghwan** in @CBNU  
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---  
+## overview of our abc-db
+![overall design](https://github.com/user-attachments/assets/65aaa223-d09b-4b49-8c03-a20a68d0be61)
